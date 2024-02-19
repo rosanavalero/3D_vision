@@ -7,7 +7,7 @@ This repository contains the source code and documentation for the Urban 3D Scen
 See [Final Presentation]()
 
 ## Weekly Reports:
-- [Week 1]()
+- [Week 1](https://github.com/rosanavalero/3D_vision/blob/dff2f667982d3113eab9a9eb2ebc0f48cee164b6/Week%201/M4_Lab_1_Team5.pdf)
 - [Week 2]()
 - [Week 3]()
 - [Week 4]()
