@@ -8,10 +8,10 @@ See [Final Presentation]()
 
 ## Weekly Reports:
 - [Week 1](https://github.com/rosanavalero/3D_vision/blob/dff2f667982d3113eab9a9eb2ebc0f48cee164b6/Week%201/M4_Lab_1_Team5.pdf)
-- [Week 2]()
-- [Week 3]()
-- [Week 4]()
-- [Week 5]()
+- [Week 2](https://github.com/rosanavalero/3D_vision/blob/4b7f0ab0650554093d05c30989d1245a62f91d2e/Week%202/M4_Lab_2.pdf)
+- [Week 3](https://github.com/rosanavalero/3D_vision/blob/4b7f0ab0650554093d05c30989d1245a62f91d2e/Week%203/M4_Lab_3.pdf)
+- [Week 4](https://github.com/rosanavalero/3D_vision/blob/4b7f0ab0650554093d05c30989d1245a62f91d2e/Week%204/M4_Lab_4_T5.pdf)
+- [Week 5](https://github.com/rosanavalero/3D_vision/blob/4b7f0ab0650554093d05c30989d1245a62f91d2e/Week%205/M4_Lab_5.pdf)
 
 ## Contributors
 - Hicham El Muhandiz (hicham.elmuhandiz@autonoma.cat)
